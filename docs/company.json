@@ -1,0 +1,17 @@
+{
+  "id": "29084042",
+  "cui": "29084042",
+  "company": "SET-CORPORATION SRL",
+  "brand": "Mesopotamia",
+  "status": "activ",
+  "location": [
+    "Suceava"
+  ],
+  "website": [
+    "https://www.mesopotamia.ro"
+  ],
+  "career": [
+    "https://www.mesopotamia.ro/cariera/"
+  ],
+  "scraperFile": "https://github.com/peviitor-scrapers/setcorporation-srl-python-scraper/actions/workflows/job-seeker-ro-spider.yml"
+}
