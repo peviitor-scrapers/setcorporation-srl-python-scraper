@@ -8,7 +8,7 @@
 | Brand | Mesopotamia |
 | Website | https://www.mesopotamia.ro |
 | Career | https://www.mesopotamia.ro/cariera/ |
-| LastScraped | 2026-11-25 |
+| LastScraped | 2026-11-26 |
 
 ## Jobs (7)
 
@@ -62,4 +62,4 @@
 - **Status**: scraped
 
 ---
-_Generated at 2026-11-25T16:38:35Z_
+_Generated at 2026-11-26T16:11:05Z_
